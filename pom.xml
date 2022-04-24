@@ -12,9 +12,11 @@
     <modules>
         <module>greenmarket-member</module>
         <module>greenmarket-order</module>
-        <module>greenmarket-poluition</module>
         <module>greenmarket-product</module>
         <module>greenmarket-ware</module>
+        <module>renren-fast</module>
+        <module>renren-generator</module>
+        <module>greenmarket-common</module>
     </modules>
 
 
